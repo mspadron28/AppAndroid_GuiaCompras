@@ -1,0 +1,151 @@
+name: unidad_3
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.6
+  google_maps_flutter: ^2.7.0
+  custom_info_window: ^1.0.1
+  lottie: ^3.1.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/aquicitoLogoUnido.png
+    - assets/fondoCarritos.png
+    - assets/fondoBolsos.png
+    - assets/tienda1Conocoto.png
+    - assets/tienda2Conocoto.png
+    - assets/tienda3Conocoto.png
+    - assets/tienda4Conocoto.png
+    - assets/tienda5Conocoto.png
+    - assets/tienda6Conocoto.png
+    - assets/tienda7Conocoto.png
+    - assets/tienda8Conocoto.png
+    - assets/tienda1Alangasi.png
+    - assets/tienda2Alangasi.png
+    - assets/tienda3Alangasi.png
+    - assets/tienda4Alangasi.png
+    - assets/tienda5Alangasi.png
+    - assets/tienda6Alangasi.png
+    - assets/tienda7Alangasi.png
+    - assets/tienda8Alangasi.png
+    - assets/tienda1Sangolqui.png
+    - assets/tienda2Sangolqui.png
+    - assets/tienda3Sangolqui.png
+    - assets/tienda4Sangolqui.png
+    - assets/tienda5Sangolqui.png
+    - assets/tienda6Sangolqui.png
+    - assets/tienda7Sangolqui.png
+    - assets/tienda8Sangolqui.png
+    - assets/top_selec_ubi.png
+    - assets/toldoTienda.png
+    - assets/bebidas/agua_mineral.png
+    - assets/bebidas/inca.png
+    - assets/bebidas/jugo_naranja.png
+    - assets/bebidas/limonada.png
+    - assets/bebidas/refresco.png
+    - assets/bebidas/smoothie.png
+    - assets/bebidas/sprite.png
+    - assets/bebidas/whisky.png
+    - assets/bebidas/whisky2.png
+    - assets/bebidas/redlabel.png
+    - assets/carnes/carne_res.png
+    - assets/carnes/conejo.png
+    - assets/carnes/cordero.png
+    - assets/carnes/pescado.png
+    - assets/carnes/pollo.png
+    - assets/carnes/pollo_organico.png
+    - assets/frutas/manzanas.png
+    - assets/frutas/platanos.png
+    - assets/frutas/tomates.png
+    - assets/frutas/espinacas.png
+    - assets/frutas/pepinos.png
+    - assets/frutas/peras.png
+    - assets/frutas/uvas.png
+    - assets/galletas/chocolate.png
+    - assets/galletas/clasicas.png
+    - assets/galletas/red_velvet.png
+    - assets/lacteos/leche.png
+    - assets/lacteos/queso.png
+    - assets/lacteos/yogur.png
+    - assets/lacteos/crema.png
+    - assets/lacteos/helado.png
+    - assets/lacteos/kefir.png
+    - assets/lacteos/queso_cottage.png
+    - assets/panaderia/bagels.png
+    - assets/panaderia/bizcochos.png
+    - assets/panaderia/croissants.png
+    - assets/panaderia/muffins.png
+    - assets/panaderia/pan_centeno.png
+    - assets/panaderia/pan_molde.png
+    - assets/panaderia/rollo_canela.png
+    - assets/panaderia/rollo_canela_crema.png
+    - assets/panaderia/tarta_manzana.png
+    - assets/floristeria/arregloFlora.png
+    - assets/floristeria/arregloFloral2.png
+    - assets/floristeria/ramoBasico.png
+    - assets/pet/comidaGato.png
+    - assets/pet/comidaGatoWhiskas.png
+    - assets/pet/comidaPerro.png
+    - assets/pet/comidaPerro2.png
+    - assets/ropa/buzo.png
+    - assets/ropa/camisa.png
+    - assets/ropa/camisaNike.png
+    - assets/ropa/camisetaAdidas.png
+    - assets/ropa/jean.png
+    - assets/ropa/jean2.png
+    - assets/ropa/short.png
+    - assets/ropa/shortAdidas.png
+    - assets/ropa/zapatoAdidas.png
+    - assets/ropa/zapatoNike.png
+    - assets/ropa/zapatoNike2.png
+    - assets/ropa/zapatoNike3.png
+    - assets/ropa/zapatoNike4.png
+    - assets/ferreteria/fregadero.png
+    - assets/ferreteria/kitHerramientas.png
+    - assets/ferreteria/manija.png
+    - assets/ferreteria/mascara.png
+
+
+
+  fonts:
+    - family: FredokaExpanded
+      fonts:
+        - asset: assets/fonts/Fredoka-Medium.ttf
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
