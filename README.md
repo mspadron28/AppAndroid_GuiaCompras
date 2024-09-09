@@ -8,7 +8,7 @@ Este proyecto es una aplicación móvil desarrollada en **Android Studio** utili
 1. **Interfaz de Inicio**
    - Pantalla principal donde se muestra el logo de la aplicación y un botón para comenzar la experiencia.
    - **Imagen de la interfaz**:
-     ![Inserte aquí la imagen de la pantalla de inicio](ruta/a/imagen)
+     ![Logo de la App](pages/p1.jpeg)
 
 2. **Selección del Sector**
    - Interfaz donde el usuario puede seleccionar el sector del Valle de los Chillos en el que desea realizar la búsqueda de productos.
