@@ -8,22 +8,22 @@ Este proyecto es una aplicación móvil desarrollada en **Android Studio** utili
 1. **Interfaz de Inicio**
    - Pantalla principal donde se muestra el logo de la aplicación y un botón para comenzar la experiencia.
    - **Imagen de la interfaz**:
-     ![Logo de la App](pages/p1.jpeg)
+     <img src="pages/p1.jpeg" alt="Logo de la App" width="300"/>
 
 2. **Selección del Sector**
    - Interfaz donde el usuario puede seleccionar el sector del Valle de los Chillos en el que desea realizar la búsqueda de productos.
    - **Imagen de la interfaz**:
-     ![Inserte aquí la imagen de la pantalla de selección del sector](ruta/a/imagen)
+     <img src="pages/p2.jpeg" alt="Selección sector" width="300"/>
 
 3. **Listado de Tiendas por Categoría**
    - Muestra las tiendas disponibles en el sector seleccionado, organizadas por categorías para facilitar la búsqueda.
    - **Imagen de la interfaz**:
-     ![Inserte aquí la imagen de la pantalla de tiendas](ruta/a/imagen)
+     <img src="pages/p3.jpeg" alt="Listado Tiendas" width="300"/>
 
 4. **Integración con Google Maps**
    - Al seleccionar una tienda, se abre Google Maps con una ventana personalizada donde se muestran las categorías y productos disponibles en esa tienda.
    - **Imagen de la interfaz**:
-     ![Inserte aquí la imagen de la integración con Google Maps](ruta/a/imagen)
+     <img src="pages/p4.jpeg" alt="Ventana Personalizada" width="300"/>
 
 ## Tecnologías Utilizadas
 
