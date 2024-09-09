@@ -49,16 +49,4 @@ Este proyecto es una aplicación móvil desarrollada en **Android Studio** utili
    flutter run
    ```
 
-## Contribuciones
 
-¡Las contribuciones son bienvenidas! Si deseas colaborar, sigue estos pasos:
-
-1. Haz un fork del proyecto.
-2. Crea una nueva rama (`git checkout -b nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit (`git commit -m 'Añadir nueva funcionalidad'`).
-4. Haz push a la rama (`git push origin nueva-funcionalidad`).
-5. Abre un Pull Request.
-
----
-
-Este archivo README proporciona una guía completa de tu proyecto y te permite fácilmente integrar las imágenes correspondientes a cada interfaz cuando estén disponibles.
